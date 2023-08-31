@@ -195,6 +195,7 @@ tr:hover .cut { opacity: 1; }
 			<h1>Information of Guest</h1>
 			<address >
 				<p>SUN RISE HOTEL,</p>
+				
 				<p>New Kalmunani Road,<br>Battialoa,<br>Sri Lanka.</p>
 				<p>(+94) 65 222 44 55</p>
 			</address>
